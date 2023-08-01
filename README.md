@@ -23,7 +23,7 @@ Check the api is up and running by using:
 
 To setup the test script run the following:
 
-At the root of the SEICodeTest folder run:
+At the root of the SEITestCode folder run:
 `npm install`
 
 To run the script: `node testScript.js`
